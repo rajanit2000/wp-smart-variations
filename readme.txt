@@ -1,6 +1,5 @@
 === WP Smart Variations ===
-Contributors: rajanit2000
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ
+Contributors: rajanit2000,a2ztechnologies
 Tags:  WP-Commerce change variations, wp-ecommerce, variations, variations checkbox, variations radio, product variations, ecommerce variations
 Requires at least: 3.0
 Tested up to: 4.0
@@ -19,10 +18,6 @@ This is WP eCommerce variations Plugin for WP eCommerce Site. Its use to swap se
 	1. Install Plugin
 	2. No need short code
 	3. No need functions
-
-= Make me a beer =
-
-If you like this plugin [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ)
 
 == Installation ==
 

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Smart Variations
-Author: <strong>Rajan V</strong>
+Author: <strong>Rajan V, A2Z Technologies</strong>
 Version: 1.0
 Description: This is variations plugin for WP-e Commerce Site.
 */
